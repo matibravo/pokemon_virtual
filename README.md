@@ -37,5 +37,3 @@ El programa necesita estos cuatro archivos en la misma carpeta que `gengar.py`:
 - `charmander.png`
 - `charmander_walk.gif`
 
-Si publicas el proyecto en GitHub, incluye estos recursos solo si tienes permiso
-para redistribuirlos.
